@@ -1,4 +1,4 @@
 # docker-cnpm
 docker cnpm npm
 
-## FROM node:12-alpine
+## FROM node:8-alpine
