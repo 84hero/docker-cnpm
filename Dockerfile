@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:12-alpine
 
 LABEL maintainer="84hero <84hero@gmail.com>"
 
